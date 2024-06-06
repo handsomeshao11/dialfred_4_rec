@@ -1,0 +1,9 @@
+dataset.pickle
+evaliters_args.pickle
+data/lmdb_augmented_human_subgoal(big)/
+data/lmdb_augmented_human_subgoal(one_data,look_at_obj_in_light-AlarmClock-None-DeskLamp-308)/
+data/json_feat_2.1.0/
+data/json_2.1.0/
+logs/
+data/lmdb_augmented_human_subgoal/
+data/generated_2.1.0/
